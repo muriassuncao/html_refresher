@@ -1,0 +1,31 @@
+.body {
+	font-family: verdana, arial;
+	background-color: #25383C;
+	color: gray;
+	margin-top: 100px;
+		margin-right: 40px;
+		margin-bottom: 10px;
+		margin-left: 70px;
+	
+
+}
+	
+.h1 {text-align:center;
+	color: silver;
+
+}
+
+.h2 {text-align:left;
+	color: silver;
+
+}
+.img{
+	display: block;
+	width:40%;
+	max-width: 600px;
+	height: auto;
+	margin:center;
+	padding-bottom: 5px;
+    text-align: center;
+}
+
